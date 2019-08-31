@@ -1,2 +1,0 @@
-# turguthan
-Created with CodeSandbox
